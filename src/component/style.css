@@ -1,0 +1,22 @@
+.input {
+    border-radius: 30px;
+    padding: 15px 300px;
+}
+
+.list {
+    text-decoration: none;
+    list-style: none;
+}
+
+.list > li {
+    background-color: rgb(15, 57, 58);
+    padding:  20px 90px;
+    border-bottom: 1px solid wheat;
+}
+
+.list > li > a{
+    font-size: 20px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
